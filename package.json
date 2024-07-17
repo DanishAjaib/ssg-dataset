@@ -6,5 +6,8 @@
   "dependencies": {
     "badge": "^1.0.3",
     "badge-maker": "^3.3.1"
+  },
+  "scripts": {
+    "preinstall": "node preinstall.js"
   }
 }
